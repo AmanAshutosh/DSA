@@ -1,4 +1,4 @@
-# 🚀 DSA Journey with JavaScript
+# DSA Journey with JavaScript
 
 Welcome to my **Data Structures & Algorithms** repository.
 This repository contains all my DSA practice, notes, problem solutions, and learning progress while following:
